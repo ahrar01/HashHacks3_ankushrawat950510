@@ -12,13 +12,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-10-26T20:08:06.241+05:30
-  initializedAtString: 2018-10-26T20:08:05.502+05:30
+  lastUpdatedAtString: 2018-10-26T22:20:17.666+05:30
+  initializedAtString: 2018-10-26T22:13:02.287+05:30
   localBranches:
   - name: master
     tracking: origin/master
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
@@ -43,9 +45,15 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
+      - master
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/ahrar01/HashHacks3_ankushrawat950510.git
+        trackingBranch: 
+      - name: master
         remote:
           name: origin
           url: https://github.com/ahrar01/HashHacks3_ankushrawat950510.git
