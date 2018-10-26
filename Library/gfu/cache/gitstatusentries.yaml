@@ -12,6 +12,162 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-10-26T20:23:35.957+05:30
-  initializedAtString: 2018-10-26T20:08:06.073+05:30
-  entries: []
+  lastUpdatedAtString: 2018-10-26T22:11:34.470+05:30
+  initializedAtString: 2018-10-26T21:28:52.816+05:30
+  entries:
+  - path: Assembly-CSharp-Editor.csproj
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ShaderCache\5\57994a32a782de3d5510af8f2221fb57.bin
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Library\ShaderCache\5\57994a32a782de3d5510af8f2221fb57.bin
+    projectPath: Library\ShaderCache\5\57994a32a782de3d5510af8f2221fb57.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\9\931534d1f1fb64ba0e9ee4bcb3a8a485.bin
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Library\ShaderCache\9\931534d1f1fb64ba0e9ee4bcb3a8a485.bin
+    projectPath: Library\ShaderCache\9\931534d1f1fb64ba0e9ee4bcb3a8a485.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\a\a7de7ab2218f6be6abd457705a4870a0.bin
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Library\ShaderCache\a\a7de7ab2218f6be6abd457705a4870a0.bin
+    projectPath: Library\ShaderCache\a\a7de7ab2218f6be6abd457705a4870a0.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\e\e6fa70f0c61aef293d282a659d1c200b.bin
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Library\ShaderCache\e\e6fa70f0c61aef293d282a659d1c200b.bin
+    projectPath: Library\ShaderCache\e\e6fa70f0c61aef293d282a659d1c200b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\e\eec7e9a044892c045e154b8d811bdf06.bin
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Library\ShaderCache\e\eec7e9a044892c045e154b8d811bdf06.bin
+    projectPath: Library\ShaderCache\e\eec7e9a044892c045e154b8d811bdf06.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\f73a32b7bf047ce495668f2335d51e9c.bin
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Library\ShaderCache\f\f73a32b7bf047ce495668f2335d51e9c.bin
+    projectPath: Library\ShaderCache\f\f73a32b7bf047ce495668f2335d51e9c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+    projectPath: Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-03fccfea1a282c84b90135ee9d99151c
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Temp\UnityTempFile-03fccfea1a282c84b90135ee9d99151c
+    projectPath: Temp\UnityTempFile-03fccfea1a282c84b90135ee9d99151c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-0c0ab29c9076f514593ab105d7de5f96
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Temp\UnityTempFile-0c0ab29c9076f514593ab105d7de5f96
+    projectPath: Temp\UnityTempFile-0c0ab29c9076f514593ab105d7de5f96
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-0dad67eedf7665e44979c0a1c738659c
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Temp\UnityTempFile-0dad67eedf7665e44979c0a1c738659c
+    projectPath: Temp\UnityTempFile-0dad67eedf7665e44979c0a1c738659c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-452fe8ab3a9c4784686ecd5b7e16a442
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Temp\UnityTempFile-452fe8ab3a9c4784686ecd5b7e16a442
+    projectPath: Temp\UnityTempFile-452fe8ab3a9c4784686ecd5b7e16a442
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-9777155f32702d64abc08b30ea7030ad
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Temp\UnityTempFile-9777155f32702d64abc08b30ea7030ad
+    projectPath: Temp\UnityTempFile-9777155f32702d64abc08b30ea7030ad
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-b5f7ae150e31eb548b4a2df08c261840
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Temp\UnityTempFile-b5f7ae150e31eb548b4a2df08c261840
+    projectPath: Temp\UnityTempFile-b5f7ae150e31eb548b4a2df08c261840
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ce6ff6860c9570e4586f176001a35574
+    fullPath: F:\Study\Projects\AR projects\Harry Potter\Harry\Temp\UnityTempFile-ce6ff6860c9570e4586f176001a35574
+    projectPath: Temp\UnityTempFile-ce6ff6860c9570e4586f176001a35574
+    originalPath: 
+    status: 1
+    staged: 0
