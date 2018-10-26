@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -42,10 +42,10 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 635
-  m_MinSize: {x: 683, y: 492}
+  m_MinSize: {x: 508, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 9
+  controlID: 77
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -64,15 +64,15 @@ MonoBehaviour:
     y: 0
     width: 475
     height: 635
-  m_MinSize: {x: 277, y: 71}
+  m_MinSize: {x: 102, y: 121}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 16}
+  m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 16}
   - {fileID: 13}
   - {fileID: 12}
-  m_Selected: 0
-  m_LastSelected: 2
+  m_Selected: 2
+  m_LastSelected: 0
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,7 +145,7 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 685
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -211,7 +211,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 10
+  controlID: 54
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -235,7 +235,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 109
+  controlID: 55
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -292,9 +292,9 @@ MonoBehaviour:
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
   currentTrackingStatusHasUpdate: 0
-  currentStatusEntriesHasUpdate: 1
+  currentStatusEntriesHasUpdate: 0
   repositoryProgressHasUpdate: 1
-  appManagerProgressHasUpdate: 1
+  appManagerProgressHasUpdate: 0
   changeTab: 3
   activeTab: 3
   initProjectView:
@@ -467,19 +467,494 @@ MonoBehaviour:
       tracking: '[None]'
   changesView:
     currentBranchHasUpdate: 0
-    currentStatusEntriesHasUpdate: 1
+    currentStatusEntriesHasUpdate: 0
     currentLocksHasUpdate: 0
     commitBody: 
     commitMessage: 
     currentBranch: '[master]'
-    treeScroll: {x: 0, y: 0}
+    treeScroll: {x: 0, y: 326.6449}
     treeChanges:
       assets:
-        keys: []
-        values: []
+        keys:
+        - 00000000000000001000000000000000
+        - 9f1647df1c783cb4c9790bc21c594d83
+        - d0c6ce11f7125408a95726df6d4f13f3
+        - 3b318b5996063a14d95c24c308870509
+        - a303f98c86520724084c55c36ed064e8
+        - b60a63cf0dfea2b4689a9f26ab64f675
+        - 079f2752aba5475ab2c252ed4264e5b6
+        - 1b6c33eb81daed64bade60217059428e
+        - fed8da94c723d254f9b5e027391119c2
+        - 2a5e1347ebd2430abb5e9fd7b4f2da12
+        - e7c419a0be604d95902caa2565d2d9fe
+        values:
+        - path: Assets
+          label: Assets
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Brain_Model.obj
+          label: Brain_Model.obj
+          level: 1
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Brain_Model.obj
+            fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\Brain_Model.obj
+            projectPath: Assets\Brain_Model.obj
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Editor
+          label: Editor
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Editor\Vuforia
+          label: Vuforia
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Editor\Vuforia\ImageTargetTextures
+          label: ImageTargetTextures
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Editor\Vuforia\ImageTargetTextures\brain
+          label: brain
+          level: 4
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg
+          label: brain_scaled.jpg
+          level: 5
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg
+            fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg
+            projectPath: Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\StreamingAssets
+          label: StreamingAssets
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\StreamingAssets\Vuforia
+          label: Vuforia
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\StreamingAssets\Vuforia\brain.dat
+          label: brain.dat
+          level: 3
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\StreamingAssets\Vuforia\brain.dat
+            fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\StreamingAssets\Vuforia\brain.dat
+            projectPath: Assets\StreamingAssets\Vuforia\brain.dat
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\StreamingAssets\Vuforia\brain.xml
+          label: brain.xml
+          level: 3
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\StreamingAssets\Vuforia\brain.xml
+            fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\StreamingAssets\Vuforia\brain.xml
+            projectPath: Assets\StreamingAssets\Vuforia\brain.xml
+            originalPath: 
+            status: 1
+            staged: 0
       folders:
-        keys: []
-        values: []
+        keys:
+        - Assets
+        - Assets\Editor
+        - Assets\Editor\Vuforia
+        - Assets\Editor\Vuforia\ImageTargetTextures
+        - Assets\Editor\Vuforia\ImageTargetTextures\brain
+        - Assets\StreamingAssets
+        - Assets\StreamingAssets\Vuforia
+        - Library
+        - Library\gfu
+        - Library\gfu\cache
+        - Temp
+        - Temp\__Backupscenes
+        - Temp\ProcessJobs
+        - Temp\TarGZ
+        values:
+        - path: Assets
+          label: Assets
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Editor
+          label: Editor
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Editor\Vuforia
+          label: Vuforia
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Editor\Vuforia\ImageTargetTextures
+          label: ImageTargetTextures
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\Editor\Vuforia\ImageTargetTextures\brain
+          label: brain
+          level: 4
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\StreamingAssets
+          label: StreamingAssets
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Assets\StreamingAssets\Vuforia
+          label: Vuforia
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Library
+          label: Library
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 2
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Library\gfu
+          label: gfu
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 2
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Library\gfu\cache
+          label: cache
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 2
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Temp
+          label: Temp
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Temp\__Backupscenes
+          label: __Backupscenes
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Temp\ProcessJobs
+          label: ProcessJobs
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+        - path: Temp\TarGZ
+          label: TarGZ
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
       checkedFileNodes:
         keys: []
         values: []
@@ -508,6 +983,708 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
+      - path: Assets
+        label: Assets
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\Brain_Model.obj
+        label: Brain_Model.obj
+        level: 1
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Brain_Model.obj
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\Brain_Model.obj
+          projectPath: Assets\Brain_Model.obj
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Brain_Model.obj.meta
+        label: Brain_Model.obj.meta
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Brain_Model.obj.meta
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\Brain_Model.obj.meta
+          projectPath: Assets\Brain_Model.obj.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Editor
+        label: Editor
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\Editor\Vuforia
+        label: Vuforia
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\Editor\Vuforia\ImageTargetTextures
+        label: ImageTargetTextures
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\Editor\Vuforia\ImageTargetTextures\brain.meta
+        label: brain.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Editor\Vuforia\ImageTargetTextures\brain.meta
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\Editor\Vuforia\ImageTargetTextures\brain.meta
+          projectPath: Assets\Editor\Vuforia\ImageTargetTextures\brain.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Editor\Vuforia\ImageTargetTextures\brain
+        label: brain
+        level: 4
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg
+        label: brain_scaled.jpg
+        level: 5
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg
+          projectPath: Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg.meta
+        label: brain_scaled.jpg.meta
+        level: 6
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg.meta
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg.meta
+          projectPath: Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\StreamingAssets
+        label: StreamingAssets
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\StreamingAssets\Vuforia
+        label: Vuforia
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\StreamingAssets\Vuforia\brain.dat
+        label: brain.dat
+        level: 3
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\StreamingAssets\Vuforia\brain.dat
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\StreamingAssets\Vuforia\brain.dat
+          projectPath: Assets\StreamingAssets\Vuforia\brain.dat
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\StreamingAssets\Vuforia\brain.dat.meta
+        label: brain.dat.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\StreamingAssets\Vuforia\brain.dat.meta
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\StreamingAssets\Vuforia\brain.dat.meta
+          projectPath: Assets\StreamingAssets\Vuforia\brain.dat.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\StreamingAssets\Vuforia\brain.xml
+        label: brain.xml
+        level: 3
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\StreamingAssets\Vuforia\brain.xml
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\StreamingAssets\Vuforia\brain.xml
+          projectPath: Assets\StreamingAssets\Vuforia\brain.xml
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Assets\StreamingAssets\Vuforia\brain.xml.meta
+        label: brain.xml.meta
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\StreamingAssets\Vuforia\brain.xml.meta
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\StreamingAssets\Vuforia\brain.xml.meta
+          projectPath: Assets\StreamingAssets\Vuforia\brain.xml.meta
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Library
+        label: Library
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 2
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Library\gfu
+        label: gfu
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 2
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Library\gfu\cache
+        label: cache
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 2
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Library\gfu\cache\branches.yaml
+        label: branches.yaml
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\gfu\cache\branches.yaml
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\gfu\cache\branches.yaml
+          projectPath: Library\gfu\cache\branches.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Library\gfu\cache\gittrackingstatus.yaml
+        label: gittrackingstatus.yaml
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\gfu\cache\gittrackingstatus.yaml
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\gfu\cache\gittrackingstatus.yaml
+          projectPath: Library\gfu\cache\gittrackingstatus.yaml
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+        label: shadercompiler-UnityShaderCompiler.exe0.log
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 1
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\shadercompiler-UnityShaderCompiler.exe0.log
+          projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+          originalPath: 
+          status: 3
+          staged: 0
+      - path: Temp
+        label: Temp
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Temp\__Backupscenes
+        label: __Backupscenes
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Temp\__Backupscenes\0.backup
+        label: 0.backup
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\__Backupscenes\0.backup
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\__Backupscenes\0.backup
+          projectPath: Temp\__Backupscenes\0.backup
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Temp\Commandpipe
+        label: Commandpipe
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\Commandpipe
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\Commandpipe
+          projectPath: Temp\Commandpipe
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Temp\MaxCommandPipe
+        label: MaxCommandPipe
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\MaxCommandPipe
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\MaxCommandPipe
+          projectPath: Temp\MaxCommandPipe
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Temp\ProcessJobs
+        label: ProcessJobs
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+        label: e4d7cdea9e7b674007a994e68f178ef6.bakert
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+          projectPath: Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Temp\TarGZ
+        label: TarGZ
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Temp\TarGZ\brain
+        label: brain
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\TarGZ\brain
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\TarGZ\brain
+          projectPath: Temp\TarGZ\brain
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Temp\UnityLockfile
+        label: UnityLockfile
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\UnityLockfile
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityLockfile
+          projectPath: Temp\UnityLockfile
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Temp\UnityTempFile-1ff10efe5d548c249b01669801304cb4
+        label: UnityTempFile-1ff10efe5d548c249b01669801304cb4
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\UnityTempFile-1ff10efe5d548c249b01669801304cb4
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-1ff10efe5d548c249b01669801304cb4
+          projectPath: Temp\UnityTempFile-1ff10efe5d548c249b01669801304cb4
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Temp\UnityTempFile-662da94e2420bc7428bfce80b048f51b
+        label: UnityTempFile-662da94e2420bc7428bfce80b048f51b
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\UnityTempFile-662da94e2420bc7428bfce80b048f51b
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-662da94e2420bc7428bfce80b048f51b
+          projectPath: Temp\UnityTempFile-662da94e2420bc7428bfce80b048f51b
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Temp\UnityTempFile-85251ef96ac189f41887fec09d730ba6
+        label: UnityTempFile-85251ef96ac189f41887fec09d730ba6
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\UnityTempFile-85251ef96ac189f41887fec09d730ba6
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-85251ef96ac189f41887fec09d730ba6
+          projectPath: Temp\UnityTempFile-85251ef96ac189f41887fec09d730ba6
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Temp\UnityTempFile-a16408a3051a51f48a062e74c7d32fed
+        label: UnityTempFile-a16408a3051a51f48a062e74c7d32fed
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\UnityTempFile-a16408a3051a51f48a062e74c7d32fed
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-a16408a3051a51f48a062e74c7d32fed
+          projectPath: Temp\UnityTempFile-a16408a3051a51f48a062e74c7d32fed
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Temp\UnityTempFile-e52daff00f42a814593caaac5a8d8dd7
+        label: UnityTempFile-e52daff00f42a814593caaac5a8d8dd7
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\UnityTempFile-e52daff00f42a814593caaac5a8d8dd7
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-e52daff00f42a814593caaac5a8d8dd7
+          projectPath: Temp\UnityTempFile-e52daff00f42a814593caaac5a8d8dd7
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Temp\UnityTempFile-ee745c73bee42cf438f8959f96eaa81c
+        label: UnityTempFile-ee745c73bee42cf438f8959f96eaa81c
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\UnityTempFile-ee745c73bee42cf438f8959f96eaa81c
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-ee745c73bee42cf438f8959f96eaa81c
+          projectPath: Temp\UnityTempFile-ee745c73bee42cf438f8959f96eaa81c
+          originalPath: 
+          status: 1
+          staged: 0
+      - path: Temp\UnityTempFile-fafb25ea9c3ec3348b9797d3eed37b38
+        label: UnityTempFile-fafb25ea9c3ec3348b9797d3eed37b38
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp\UnityTempFile-fafb25ea9c3ec3348b9797d3eed37b38
+          fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-fafb25ea9c3ec3348b9797d3eed37b38
+          projectPath: Temp\UnityTempFile-fafb25ea9c3ec3348b9797d3eed37b38
+          originalPath: 
+          status: 1
+          staged: 0
       selectedNode:
         path: 
         label: 
@@ -527,16 +1704,166 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
-    gitStatusEntries: []
-    changedFilesText: No changed files
+    gitStatusEntries:
+    - path: Assets\Brain_Model.obj
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\Brain_Model.obj
+      projectPath: Assets\Brain_Model.obj
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Brain_Model.obj.meta
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\Brain_Model.obj.meta
+      projectPath: Assets\Brain_Model.obj.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\brain.meta
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\Editor\Vuforia\ImageTargetTextures\brain.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\brain.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg.meta
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\StreamingAssets\Vuforia\brain.dat
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\StreamingAssets\Vuforia\brain.dat
+      projectPath: Assets\StreamingAssets\Vuforia\brain.dat
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\StreamingAssets\Vuforia\brain.dat.meta
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\StreamingAssets\Vuforia\brain.dat.meta
+      projectPath: Assets\StreamingAssets\Vuforia\brain.dat.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\StreamingAssets\Vuforia\brain.xml
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\StreamingAssets\Vuforia\brain.xml
+      projectPath: Assets\StreamingAssets\Vuforia\brain.xml
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Assets\StreamingAssets\Vuforia\brain.xml.meta
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\StreamingAssets\Vuforia\brain.xml.meta
+      projectPath: Assets\StreamingAssets\Vuforia\brain.xml.meta
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Temp\__Backupscenes\0.backup
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Temp\Commandpipe
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\Commandpipe
+      projectPath: Temp\Commandpipe
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Temp\MaxCommandPipe
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\MaxCommandPipe
+      projectPath: Temp\MaxCommandPipe
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+      projectPath: Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Temp\TarGZ\brain
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\TarGZ\brain
+      projectPath: Temp\TarGZ\brain
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Temp\UnityLockfile
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityLockfile
+      projectPath: Temp\UnityLockfile
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Temp\UnityTempFile-1ff10efe5d548c249b01669801304cb4
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-1ff10efe5d548c249b01669801304cb4
+      projectPath: Temp\UnityTempFile-1ff10efe5d548c249b01669801304cb4
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Temp\UnityTempFile-662da94e2420bc7428bfce80b048f51b
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-662da94e2420bc7428bfce80b048f51b
+      projectPath: Temp\UnityTempFile-662da94e2420bc7428bfce80b048f51b
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Temp\UnityTempFile-85251ef96ac189f41887fec09d730ba6
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-85251ef96ac189f41887fec09d730ba6
+      projectPath: Temp\UnityTempFile-85251ef96ac189f41887fec09d730ba6
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Temp\UnityTempFile-a16408a3051a51f48a062e74c7d32fed
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-a16408a3051a51f48a062e74c7d32fed
+      projectPath: Temp\UnityTempFile-a16408a3051a51f48a062e74c7d32fed
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Temp\UnityTempFile-e52daff00f42a814593caaac5a8d8dd7
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-e52daff00f42a814593caaac5a8d8dd7
+      projectPath: Temp\UnityTempFile-e52daff00f42a814593caaac5a8d8dd7
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Temp\UnityTempFile-ee745c73bee42cf438f8959f96eaa81c
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-ee745c73bee42cf438f8959f96eaa81c
+      projectPath: Temp\UnityTempFile-ee745c73bee42cf438f8959f96eaa81c
+      originalPath: 
+      status: 1
+      staged: 0
+    - path: Temp\UnityTempFile-fafb25ea9c3ec3348b9797d3eed37b38
+      fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-fafb25ea9c3ec3348b9797d3eed37b38
+      projectPath: Temp\UnityTempFile-fafb25ea9c3ec3348b9797d3eed37b38
+      originalPath: 
+      status: 1
+      staged: 0
+    changedFilesText: 25 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2018-10-27T01:39:22.933+05:30
+      updatedTimeString: 2018-10-27T02:36:28.652+05:30
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2018-10-27T02:08:18.233+05:30
+      updatedTimeString: 2018-10-27T02:37:03.900+05:30
       cacheType: 5
     lastLocksChangedEvent:
-      updatedTimeString: 0001-01-01T00:00:00.000+00:00
+      updatedTimeString: 2018-10-27T02:36:34.487+05:30
       cacheType: 6
   historyView:
     currentLogHasUpdate: 0
@@ -757,9 +2084,9 @@ MonoBehaviour:
   currentRemoteName: origin
   currentBranch: master
   currentRemoteUrl: https://github.com/Rawkush/HashHacks3_ankushrawat950510.git
-  statusAhead: 0
+  statusAhead: 1
   statusBehind: 0
-  hasItemsToCommit: 0
+  hasItemsToCommit: 1
   isTrackingRemoteBranch: 1
   currentBranchContent:
     m_Text: master
@@ -770,13 +2097,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2018-10-27T00:22:11.825+05:30
+    updatedTimeString: 2018-10-27T02:36:28.652+05:30
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2018-10-27T00:22:14.065+05:30
+    updatedTimeString: 2018-10-27T02:37:03.975+05:30
     cacheType: 4
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2018-10-27T01:53:41.713+05:30
+    updatedTimeString: 2018-10-27T02:37:03.900+05:30
     cacheType: 5
   pullButtonContent:
     m_Text: Pull
@@ -905,7 +2232,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 23}
     m_SelectedIDs: ec2b0000
     m_LastClickedID: 11244
-    m_ExpandedIDs: 00000000ec2b0000522f000000ca9a3b
+    m_ExpandedIDs: 00000000ec2b0000542f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -933,7 +2260,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ec2b0000522f0000
+    m_ExpandedIDs: 00000000ec2b0000542f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1049,9 +2376,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 88f9feff72fafeff56fbfeffaafdfeffe6fbffff000000009c2f0000ac2f00003833000048330000
+    m_SelectedIDs: d2a8ffff
+    m_LastClickedID: -22318
+    m_ExpandedIDs: d2a8ffffcad4ffffb4edffffe6fbffff000000007a2f0000b42f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

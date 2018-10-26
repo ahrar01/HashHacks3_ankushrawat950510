@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-10-27T02:36:34.510+05:30
+  lastUpdatedAtString: 2018-10-27T02:37:03.900+05:30
   initializedAtString: 2018-10-27T02:23:36.578+05:30
   entries:
   - path: Assets\Brain_Model.obj
@@ -69,27 +69,9 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\assetDatabase3
-    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\EditorInstance.json
-    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -98,72 +80,6 @@ MonoBehaviour:
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     status: 3
-    staged: 0
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\07\079f2752aba5475ab2c252ed4264e5b6
-    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\07\079f2752aba5475ab2c252ed4264e5b6
-    projectPath: Library\metadata\07\079f2752aba5475ab2c252ed4264e5b6
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\07\079f2752aba5475ab2c252ed4264e5b6.info
-    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\07\079f2752aba5475ab2c252ed4264e5b6.info
-    projectPath: Library\metadata\07\079f2752aba5475ab2c252ed4264e5b6.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\2a\2a5e1347ebd2430abb5e9fd7b4f2da12
-    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\2a\2a5e1347ebd2430abb5e9fd7b4f2da12
-    projectPath: Library\metadata\2a\2a5e1347ebd2430abb5e9fd7b4f2da12
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\2a\2a5e1347ebd2430abb5e9fd7b4f2da12.info
-    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\2a\2a5e1347ebd2430abb5e9fd7b4f2da12.info
-    projectPath: Library\metadata\2a\2a5e1347ebd2430abb5e9fd7b4f2da12.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\9f\9f1647df1c783cb4c9790bc21c594d83
-    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\9f\9f1647df1c783cb4c9790bc21c594d83
-    projectPath: Library\metadata\9f\9f1647df1c783cb4c9790bc21c594d83
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\9f\9f1647df1c783cb4c9790bc21c594d83.info
-    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\9f\9f1647df1c783cb4c9790bc21c594d83.info
-    projectPath: Library\metadata\9f\9f1647df1c783cb4c9790bc21c594d83.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\b6\b60a63cf0dfea2b4689a9f26ab64f675
-    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\b6\b60a63cf0dfea2b4689a9f26ab64f675
-    projectPath: Library\metadata\b6\b60a63cf0dfea2b4689a9f26ab64f675
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\b6\b60a63cf0dfea2b4689a9f26ab64f675.info
-    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\b6\b60a63cf0dfea2b4689a9f26ab64f675.info
-    projectPath: Library\metadata\b6\b60a63cf0dfea2b4689a9f26ab64f675.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e7\e7c419a0be604d95902caa2565d2d9fe
-    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\e7\e7c419a0be604d95902caa2565d2d9fe
-    projectPath: Library\metadata\e7\e7c419a0be604d95902caa2565d2d9fe
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e7\e7c419a0be604d95902caa2565d2d9fe.info
-    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\e7\e7c419a0be604d95902caa2565d2d9fe.info
-    projectPath: Library\metadata\e7\e7c419a0be604d95902caa2565d2d9fe.info
-    originalPath: 
-    status: 1
     staged: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\shadercompiler-UnityShaderCompiler.exe0.log
