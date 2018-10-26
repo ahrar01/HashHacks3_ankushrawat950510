@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-F:/Study/Projects/AR projects/Harry Potter/PotterNews.apk
+C:/Users/Ankush/Desktop/HashHacks.apk
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
