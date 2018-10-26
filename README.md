@@ -1,5 +1,12 @@
-# HashHacks3_ankushrawat950510
+# HashHacks 3.0
+## 💢Abstract 💢
+### Problem statements:
 
-Project Name MOZ://A (Mozilla)
-1.	An augmented Reality project which can be used to hear the lecture or speech by just scanning an image in newspapers, books, etc.
-2.	For attendance in schools we can use a QR code to scan it in our phone we will get a virtual button and by just clicking on it we can mark our attendance. 
+ - The imagination power of every student is not same and while studying📚 some complicated subject including some very hard complex figures and diagrams it becomes very important to imagine the figure in reality.
+
+### Proposed Solution✏️✏️
+ - We will create an android app based on Augumented Reality(AR) where we are going to create a window where on just scanning the target image 3 virtual buttons will show up to the screen and on clicking the individual button you'll get different option for learning.
+ 
+## Helpful to😉
+- School students 🎓
+- College/Univerty Students 🎓
