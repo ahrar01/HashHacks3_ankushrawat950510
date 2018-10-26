@@ -12,6 +12,240 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-10-27T02:08:18.233+05:30
-  initializedAtString: 2018-10-27T01:39:24.770+05:30
-  entries: []
+  lastUpdatedAtString: 2018-10-27T02:36:34.510+05:30
+  initializedAtString: 2018-10-27T02:23:36.578+05:30
+  entries:
+  - path: Assets\Brain_Model.obj
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\Brain_Model.obj
+    projectPath: Assets\Brain_Model.obj
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Brain_Model.obj.meta
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\Brain_Model.obj.meta
+    projectPath: Assets\Brain_Model.obj.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\brain.meta
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\Editor\Vuforia\ImageTargetTextures\brain.meta
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\brain.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg.meta
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg.meta
+    projectPath: Assets\Editor\Vuforia\ImageTargetTextures\brain\brain_scaled.jpg.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\StreamingAssets\Vuforia\brain.dat
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\StreamingAssets\Vuforia\brain.dat
+    projectPath: Assets\StreamingAssets\Vuforia\brain.dat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\StreamingAssets\Vuforia\brain.dat.meta
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\StreamingAssets\Vuforia\brain.dat.meta
+    projectPath: Assets\StreamingAssets\Vuforia\brain.dat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\StreamingAssets\Vuforia\brain.xml
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\StreamingAssets\Vuforia\brain.xml
+    projectPath: Assets\StreamingAssets\Vuforia\brain.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\StreamingAssets\Vuforia\brain.xml.meta
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Assets\StreamingAssets\Vuforia\brain.xml.meta
+    projectPath: Assets\StreamingAssets\Vuforia\brain.xml.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\07\079f2752aba5475ab2c252ed4264e5b6
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\07\079f2752aba5475ab2c252ed4264e5b6
+    projectPath: Library\metadata\07\079f2752aba5475ab2c252ed4264e5b6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\07\079f2752aba5475ab2c252ed4264e5b6.info
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\07\079f2752aba5475ab2c252ed4264e5b6.info
+    projectPath: Library\metadata\07\079f2752aba5475ab2c252ed4264e5b6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\2a\2a5e1347ebd2430abb5e9fd7b4f2da12
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\2a\2a5e1347ebd2430abb5e9fd7b4f2da12
+    projectPath: Library\metadata\2a\2a5e1347ebd2430abb5e9fd7b4f2da12
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\2a\2a5e1347ebd2430abb5e9fd7b4f2da12.info
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\2a\2a5e1347ebd2430abb5e9fd7b4f2da12.info
+    projectPath: Library\metadata\2a\2a5e1347ebd2430abb5e9fd7b4f2da12.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\9f\9f1647df1c783cb4c9790bc21c594d83
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\9f\9f1647df1c783cb4c9790bc21c594d83
+    projectPath: Library\metadata\9f\9f1647df1c783cb4c9790bc21c594d83
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\9f\9f1647df1c783cb4c9790bc21c594d83.info
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\9f\9f1647df1c783cb4c9790bc21c594d83.info
+    projectPath: Library\metadata\9f\9f1647df1c783cb4c9790bc21c594d83.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b6\b60a63cf0dfea2b4689a9f26ab64f675
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\b6\b60a63cf0dfea2b4689a9f26ab64f675
+    projectPath: Library\metadata\b6\b60a63cf0dfea2b4689a9f26ab64f675
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b6\b60a63cf0dfea2b4689a9f26ab64f675.info
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\b6\b60a63cf0dfea2b4689a9f26ab64f675.info
+    projectPath: Library\metadata\b6\b60a63cf0dfea2b4689a9f26ab64f675.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e7\e7c419a0be604d95902caa2565d2d9fe
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\e7\e7c419a0be604d95902caa2565d2d9fe
+    projectPath: Library\metadata\e7\e7c419a0be604d95902caa2565d2d9fe
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e7\e7c419a0be604d95902caa2565d2d9fe.info
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\metadata\e7\e7c419a0be604d95902caa2565d2d9fe.info
+    projectPath: Library\metadata\e7\e7c419a0be604d95902caa2565d2d9fe.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\Commandpipe
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\Commandpipe
+    projectPath: Temp\Commandpipe
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\MaxCommandPipe
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\MaxCommandPipe
+    projectPath: Temp\MaxCommandPipe
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+    projectPath: Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\TarGZ\brain
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\TarGZ\brain
+    projectPath: Temp\TarGZ\brain
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-1ff10efe5d548c249b01669801304cb4
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-1ff10efe5d548c249b01669801304cb4
+    projectPath: Temp\UnityTempFile-1ff10efe5d548c249b01669801304cb4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-662da94e2420bc7428bfce80b048f51b
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-662da94e2420bc7428bfce80b048f51b
+    projectPath: Temp\UnityTempFile-662da94e2420bc7428bfce80b048f51b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-85251ef96ac189f41887fec09d730ba6
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-85251ef96ac189f41887fec09d730ba6
+    projectPath: Temp\UnityTempFile-85251ef96ac189f41887fec09d730ba6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-a16408a3051a51f48a062e74c7d32fed
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-a16408a3051a51f48a062e74c7d32fed
+    projectPath: Temp\UnityTempFile-a16408a3051a51f48a062e74c7d32fed
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e52daff00f42a814593caaac5a8d8dd7
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-e52daff00f42a814593caaac5a8d8dd7
+    projectPath: Temp\UnityTempFile-e52daff00f42a814593caaac5a8d8dd7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ee745c73bee42cf438f8959f96eaa81c
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-ee745c73bee42cf438f8959f96eaa81c
+    projectPath: Temp\UnityTempFile-ee745c73bee42cf438f8959f96eaa81c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-fafb25ea9c3ec3348b9797d3eed37b38
+    fullPath: C:\Users\Ankush\Desktop\HashHacks3_ankushrawat950510\Temp\UnityTempFile-fafb25ea9c3ec3348b9797d3eed37b38
+    projectPath: Temp\UnityTempFile-fafb25ea9c3ec3348b9797d3eed37b38
+    originalPath: 
+    status: 1
+    staged: 0
