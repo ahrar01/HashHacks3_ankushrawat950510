@@ -11,6 +11,10 @@
 - School students 🎓
 - College/Univerty Students 🎓
 #
+## Demo
+![both1](https://user-images.githubusercontent.com/26676596/47601543-0c819f00-d9f0-11e8-8389-4b62952dabbd.gif)
+
+
 ## Pics!
 A video lecture start playing just by scanning the specified page or code.
 ![enter image description here](https://lh3.googleusercontent.com/BHyhT6Q5WjuXtzYfFqd4lpNPvErc_VuI12QPtWU4eZsxauD9CY6T-Yzcj9GrC1bh58cHBgWoEtDP)
