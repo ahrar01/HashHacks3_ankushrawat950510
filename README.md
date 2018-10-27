@@ -15,6 +15,9 @@
 ![both1](https://user-images.githubusercontent.com/26676596/47601543-0c819f00-d9f0-11e8-8389-4b62952dabbd.gif)
 
 
+![robo](https://user-images.githubusercontent.com/26676596/47601643-5e76f480-d9f1-11e8-8d50-6544f1803391.gif)
+
+
 ## Pics!
 A video lecture start playing just by scanning the specified page or code.
 ![enter image description here](https://lh3.googleusercontent.com/BHyhT6Q5WjuXtzYfFqd4lpNPvErc_VuI12QPtWU4eZsxauD9CY6T-Yzcj9GrC1bh58cHBgWoEtDP)
